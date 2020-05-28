@@ -1,0 +1,11 @@
+C:\Users\Home\Desktop\MyVector\MyVector\bin\Debug\netcoreapp3.1\MyVector.exe
+C:\Users\Home\Desktop\MyVector\MyVector\bin\Debug\netcoreapp3.1\MyVector.deps.json
+C:\Users\Home\Desktop\MyVector\MyVector\bin\Debug\netcoreapp3.1\MyVector.runtimeconfig.json
+C:\Users\Home\Desktop\MyVector\MyVector\bin\Debug\netcoreapp3.1\MyVector.runtimeconfig.dev.json
+C:\Users\Home\Desktop\MyVector\MyVector\bin\Debug\netcoreapp3.1\MyVector.dll
+C:\Users\Home\Desktop\MyVector\MyVector\bin\Debug\netcoreapp3.1\MyVector.pdb
+C:\Users\Home\Desktop\MyVector\MyVector\obj\Debug\netcoreapp3.1\MyVector.csprojAssemblyReference.cache
+C:\Users\Home\Desktop\MyVector\MyVector\obj\Debug\netcoreapp3.1\MyVector.AssemblyInfoInputs.cache
+C:\Users\Home\Desktop\MyVector\MyVector\obj\Debug\netcoreapp3.1\MyVector.AssemblyInfo.cs
+C:\Users\Home\Desktop\MyVector\MyVector\obj\Debug\netcoreapp3.1\MyVector.dll
+C:\Users\Home\Desktop\MyVector\MyVector\obj\Debug\netcoreapp3.1\MyVector.pdb
